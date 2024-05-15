@@ -1,1 +1,1 @@
-# RAESSO_encryption_algorithm
+# RAESSO is a symmetric encryption algorithm developed by Eshgin Hasanov as a new way of encryption.
